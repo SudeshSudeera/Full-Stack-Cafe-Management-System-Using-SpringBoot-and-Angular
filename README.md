@@ -1,0 +1,4 @@
+# Full-Stack-Cafe-Management-System-Using-SpringBoot-and-Angular
+This web application is a cafe management system that manages categories, products, and orders. Each user can have different roles like Admin and User. And also each user has different authorities related to the roles. Any role cannot do another role’s task. Spring security, authentications of users by using Jwt, RESTfull API, exception handling, and transactions management are used to design this project. </br></br>
+This project was created in Spring Boot framework and Spring Boot REST API testing is done by using Postman. Hibernate was used for object-relational mapping, Spring Security for authentications, and MySQL for database management. Login, registration, authorization, credentials, validations, and UI components are managed on the front end using Angular. </br></br>
+Angular | Spring Boot | Java | RESTfull API | Hibernate | Spring Security (Jwt) | MySQL | JDBC | Postman | OOP 
